@@ -1,0 +1,3 @@
+<?php
+function getsquareArea($_____)
+
